@@ -1,3 +1,4 @@
+
 # 🩸 Blood Donation Analytics Project
 
 > A comprehensive data analytics project exploring blood donor demographics, geographic distribution, eligibility trends, and donation patterns across India — built with Excel and interactive dashboards.
@@ -11,7 +12,7 @@ This project analyzes a dataset of **10,000 blood donors** across **20 cities** 
 Whether you're a healthcare analyst, data enthusiast, or NGO working in the blood banking space, this project provides a solid foundation for understanding donor trends and improving blood supply chain decisions.
 
 ---
-
+![dasboard](https://github.com/user-attachments/assets/f4a9b00e-7442-421c-ab8f-6481f89d284d)
 ## 📊 Dataset Summary
 
 | Attribute | Details |
